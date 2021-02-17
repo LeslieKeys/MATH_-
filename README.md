@@ -1,3 +1,20 @@
 ## MATH_test
-- 一个数学训练的python版本（mac版哦～）
-- 现在可能出现不少bug，希望能通过issues提出～
+### 现在是英语，点此进入中文 [请点击这里](https://github.com/KEYS-ME/MATH_-/blob/master/README-CN.md)
+
+Q:What is MATH_test?
+
+A:A program do math.
+
+Q:Where did it run?
+
+A:In linux with python3.
+
+You can use it train your Math, Now we support: 
+
+### 1.addition
+
+### 2.multiplication
+
+## Others:
+
+This program only test in ubuntu, you can try it in other operation system, if it has some bugs, please ask in issue, I will fix it.
