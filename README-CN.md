@@ -17,4 +17,4 @@ A:在有Python3的linux系统中
 
 ## 另外:
 
-这个程序只在Windows中测试过，你可以在其他操作系统测试，如果有bug，请提交issue，我将会修复他。
+这个程序支持Windows与Ubuntu，你可以在其他操作系统测试，如果有bug，请提交issue，我将会修复他。

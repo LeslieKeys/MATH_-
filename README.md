@@ -17,4 +17,4 @@ You can use it train your Math, Now we support:
 
 ## Others:
 
-This program only test in Windows10, you can try it in other operation system, if it has some bugs, please ask in issue, I will fix it.
+This program can run in Windows10 and Ubuntu, you can try it in other operation system, if it has some bugs, please ask in issue, I will fix it.
