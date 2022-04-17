@@ -1,20 +1,30 @@
 ## MATH_test
-### 现在是英语，点此进入中文 [请点击这里](https://github.com/KEYS-ME/MATH_-/blob/master/README-CN.md)
+Q:MATH_test是什么?
 
-Q:What is MATH_test?
+A:一个做数学的程序。
 
-A:A program do math.
+Q:在哪里运行?
 
-Q:Where did it run?
+A:everywhere
 
-A:In linux with python3.
+你可以用他锻炼你的数学, 我们现在支持: 
 
-You can use it train your Math, Now we support: 
+### 1.加法
 
-### 1.addition
+### 2.乘法
 
-### 2.multiplication
+#### 最新的MATH_test由PyQt5重写
 
-## Others:
+### 源码食用方法：
 
-This program can run in Windows10 and Ubuntu, you can try it in other operation system, if it has some bugs, please ask in issue, I will fix it.
+1.安装git环境或下载源码包
+
+2.使用`git clone https://github.com/KEYS-ME/MATH_-.git`获取源码
+
+3.安装python环境（建议python3.8）
+
+4.windows使用管理员运行cmd，linux与macos等打开终端
+
+执行：`pip install PyQt5`
+
+5.进入源码文件夹，输入`python main.py`
